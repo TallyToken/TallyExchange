@@ -1,5 +1,6 @@
 # Table of contents
 
-* [📥 How To Add Liquidity](README.md)
-* [♨ How to stake your Liquidity](how-to-stake-your-liquidity.md)
-* [📤 How to Remove Liquidity](how-to-remove-liquidity.md)
+* [💰 Add Liquidity (Airdrop Campaign)](README.md)
+* [📥 How To Add Liquidity](how-to-add-liquidity.md)
+* [♨ How to stake your Liquidity](how-to-stake-your-liquidity/README.md)
+  * [📤 How to Remove Liquidity](how-to-stake-your-liquidity/how-to-remove-liquidity.md)
