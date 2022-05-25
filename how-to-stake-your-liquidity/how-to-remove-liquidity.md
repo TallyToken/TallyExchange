@@ -4,7 +4,7 @@
 
 ### The Procedure <a href="#how-to-unstake-and-harvest-tokens-on-biswap-farms" id="how-to-unstake-and-harvest-tokens-on-biswap-farms"></a>
 
-1. **Harvest** your LP Tokens by clicking on <mark style="color:green;">**Harvest**</mark> button.  This will claim your Tally Token earnings.
+1. **Harvest** your LP Tokens by clicking on <mark style="color:green;">**Harvest**</mark> button. This will claim your Tally Token earnings.
 
 ![](<../.gitbook/assets/Image 1 for Remove LiquidityScreenshot.jpg>)
 
@@ -21,17 +21,15 @@ If you don't see your liquidity - Click on Import it!
 
 ![](<../.gitbook/assets/Image 4 for Remove LiquidityScreenshot.jpg>)
 
-5\. Click on the <mark style="color:red;">**Remove**</mark>** **_****_ button.
+5\. Click on the <mark style="color:red;">**Remove**</mark> button.
 
-
-
-6\. **Move the slider** to regulate the sum you want to unstake**.**
+6\. **Move the slider** to regulate the sum you want to unstake
 
 ![](<../.gitbook/assets/Image 5 for Remove LiquidityScreenshot.jpg>)
 
 7\. <mark style="color:green;">**Approve**</mark> the unstaking amount.
 
-8\. Press the <mark style="color:red;">**Remove**</mark>** **_****_ button.
+8\. Press the <mark style="color:red;">**Remove**</mark> button.
 
 9\. **Confirm** the operation.
 
@@ -40,4 +38,3 @@ If you don't see your liquidity - Click on Import it!
 11\. Your **Liquidity is removed** and sent to your wallet.
 
 ### &#x20;<a href="#which-rewards-does-a-liquidity-provider-get-on-biswap" id="which-rewards-does-a-liquidity-provider-get-on-biswap"></a>
-

@@ -14,9 +14,9 @@ description: >-
 
 ![](.gitbook/assets/TallyNFTs.jpg)
 
-## \*\* \*\*<mark style="color:green;background-color:yellow;">**1,000 TallyNFT GIVEAWAY!**</mark>
+## <mark style="color:green;background-color:yellow;">**1,000 TallyNFT GIVEAWAY!**</mark>
 
-<mark style="color:green;background-color:yellow;">\*\*\*\*</mark>
+
 
 #### Welcome to Tally Exchange for trading cryptocurrency – The SWAP platform with a difference
 
@@ -40,14 +40,14 @@ Other than the standard features expected from any DEX, there are innovative pro
 
 **Hosted on Tally Exchange**
 
-![Tally Pay](.gitbook/assets/TPay-removebg-preview.png)
+![](.gitbook/assets/tpay\_logo-removebg-preview.png)
 
 **Tally Pay DeFi** is a online storage facility similar to a bank but fully decentralised, where users deposit funds. [Discover Tally Pay DeFi](https://app.tally.ho.org/tally-pay)\
 <mark style="color:green;">**Organic Traffic**</mark>\
 Account holders visit Tally Exchange to access their accounts.\
 TallySWAP is the most convenient place for Account holders to trade. Why?
 
-They are already on this platformwhether after making withdrawals or when visit to find the tokens they seek and make the trade.\\
+They are already on the platform.  They are either depositing their tokens or making withdrawals.  Tally Token is a utility token used by Tally Pay DeFi.  TallySWAP is the first place they visit to purchase Tally Tokens.  Tally Tokens is a favourable choice as a liquidity pair.
 
 * When you provide your tokens, you receive a receipt for your tokens. The receipt allows you to remove your tokens from the Tally Exchange at any time.
 * You can earn a portion of trading fees as a passive income. _Tokens sitting in your crypto wallet earns nothing._
@@ -66,7 +66,7 @@ On TallySWAP, traders are rewarded with Tally Tokens each time they make a purch
 
 ![TallyBACK Claim Box](<.gitbook/assets/Tally BACK Claim.jpg>)
 
-#### <mark style="color:orange;">It's a no brainer where best to trade.</mark>
+#### <mark style="color:orange;">It's a no</mark>**-**<mark style="color:orange;">brainer where best to trade.</mark>
 
 _If you are the provider of the token they require, you earn 0.17% of transaction fee_
 
@@ -83,8 +83,8 @@ In order to achieve this target, communities are needed to store their tokens on
 
 Before TallySWAP opens, we are looking for people to show support by being the first to provide the liquidity needed to operate. As a reward for early adopters, all providers will be entered into the TallyNFT Prize Draw on top of the earning potential as a Liquidity Provider.\
 \
-There is no minimum. Many small deposits add up to big \_\_\_\_\_\_\_\_\_\_.\
-Big deposits will earn you bigger potential by receiving a bigger portion of the pie.\\
+There is no minimum. Many small deposits together add up to big deposit.  With community peer-to peer collaboration, we can compete with the big institutions.\
+Big deposits will earn you bigger potential by receiving a bigger portion of the pie.
 
 #### What Initial Liquidity is needed?
 

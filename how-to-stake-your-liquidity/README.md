@@ -31,7 +31,7 @@ The beauty of the Tally Protocol is the relationship between Provider and Trader
 
 You will be automatically transferred to the [**Liquidity page**](https://exchange.biswap.org/#/pool) where you can provide liquidity for BNB-TALLY tokens in the farming pair.
 
-2\. \*\*\*\* Enter the equivalent amount of each token from the farming pair and click the **Approve WBNB** button
+2\. Enter the equivalent amount of each token from the farming pair and click the **Approve WBNB** button
 
 ❗️ **We use WBNB on the BEP-20 network, Binance Smart Chain. So BNB (BEP-2) tokens need to be wrapped (become WBNB) to provide liquidity. You may wrap BNB to WBNB by making a swap on the** [**Exchange**](https://exchange.biswap.org/#/swap) **tab.**
 
