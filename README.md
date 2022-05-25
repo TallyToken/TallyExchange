@@ -92,7 +92,7 @@ All coins and tokens are required and welcome. However, the tokens below are mos
 
 ![](.gitbook/assets/LPS.jpg)
 
-_To discover how adding pairs work, read doc on :_ <mark style="color:orange;">How To Add Liquidity</mark>
+_To discover how adding pairs work, read doc on :_ [<mark style="color:orange;">How To Add Liquidity</mark>](https://docs.tally-ho.org/how-to-add-liquidity)<mark style="color:orange;"></mark>
 
 ### Interested in Entering the TallyNFT Prize Draw
 
