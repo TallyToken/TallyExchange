@@ -7,8 +7,9 @@ When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check P
 ### How to Stake Tally Tokens
 
 1. Buy Tally Tokens\
-   Token Address: 0xab15B3eeC70514308B0Ad65E8B7603 98c5839947\
-   Direct link to purchase Tally Tokens: \
+   \
+   <mark style="color:orange;">Token Address:</mark> 0xab15B3eeC70514308B0Ad65E8B7603 98c5839947\
+   <mark style="color:orange;">Direct link to purchase Tally Tokens:</mark> \
    [https://pancakeswap.finance/swap?outputCur   \
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
