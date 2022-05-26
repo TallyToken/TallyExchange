@@ -16,5 +16,5 @@ ETH is a unit of Ethereum.  Ethereum is a cryptocurrency.  In the same way dolla
 
 You see gwei when charged gas fees.  This is because gas fees are considerably low compared to the value of 1 ETH, therefore the price is expressed in gwei.
 
-Gwei is also the currency required on the BNB network.  This is not ETH you are spending.  Binance built its blockchain as a clone of the ETH blockchain and did not change the names of certain items.  The gwei when operating on the Binance network is representing a smaller denomination of BNB.  You are actually paying the BNB gas fee in BNB.  The smaller denomination of ETH is gwei.  The smaller denomination of BNB is Jager.  Therefore, the gas fees in BNB shiouod be charged in Jager.\
+Gwei is also the currency required on the BNB network.  This is not ETH you are spending.  Binance built its blockchain as a clone of the ETH blockchain and did not change the names of certain items.  The gwei when operating on the Binance network is representing a smaller denomination of BNB.  You are actually paying the BNB gas fee in BNB.  The smaller denomination of ETH is gwei.  The smaller denomination of BNB is Jager.  Therefore, the gas fees in BNB is charged in Jager although it says gwei.\
 \
