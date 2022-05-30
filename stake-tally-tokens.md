@@ -2,7 +2,7 @@
 
 ### Earn Interest (APY)
 
-When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check Pools to find the current % rate of rewards.
+When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.
 
 ### How to Stake Tally Tokens
 
