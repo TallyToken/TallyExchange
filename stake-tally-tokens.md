@@ -4,6 +4,38 @@
 
 When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.
 
+### Tally Pools
+
+Tally Exchange has one of the highest APR rates in the business due to the ecosystem supporting the token.&#x20;
+
+With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol.&#x20;
+
+Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.\
+\
+**Unstaking fee**
+
+<mark style="color:blue;">0.4%</mark>
+
+Tally Exchange does not require users to lock in their funds when staking.  Many exchanges have a penalty fee for withdrawing early as a forfeit, this is necessary for stability and safety.\
+&#x20;\
+There is a un-staking fee attached to staking which is small enough to be recoupable within days of staking.&#x20;
+
+Stake tokens and within a short length of time, stakers start to earn more than the un-stake fee and start seeing gains.  Similar staking platforms apply a 72 hour minimum lock time.
+
+**Performance fee**
+
+0.4%, subtracted automatically from each yield harvest.
+
+For example, if the harvest were 1000 TALLY, then 4 TALLY would be subtracted as the performance fee.
+
+The TALLY collected via the un-staking fee and performance fee is directed towards marketing, maintenance and operations, and buyback reserves.\
+\
+This is a good thing for TALLY holders because it supports the token and helps to bring Tally Token to a wider audience by increasing awareness and growing the community.
+
+#### <mark style="color:blue;">**Informational purposes only (figures are an approximation and differs according to market and current rates)**</mark>
+
+![](<.gitbook/assets/Staking rates example.jpg>)
+
 ### How to Stake Tally Tokens
 
 1. Buy Tally Tokens\
