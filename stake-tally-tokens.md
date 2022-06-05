@@ -32,7 +32,7 @@ The TALLY collected via the un-staking fee and performance fee is directed towar
 \
 This is a good thing for TALLY holders because it supports the token and helps to bring Tally Token to a wider audience by increasing awareness and growing the community.
 
-#### <mark style="color:blue;">**Informational purposes only (figures are an approximation and differs according to market and current rates)**</mark>
+#### <mark style="color:blue;">**The following table is for informational purposes only (figures are an approximation and differs according to market and current rates)**</mark>
 
 ### &#x20;                                    Stake Tally Earn Tally
 
