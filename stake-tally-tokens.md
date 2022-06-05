@@ -34,6 +34,8 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 #### <mark style="color:blue;">**Informational purposes only (figures are an approximation and differs according to market and current rates)**</mark>
 
+### &#x20;                                    Stake Tally Earn Tally
+
 ![](<.gitbook/assets/Staking rates example.jpg>)
 
 ### How to Stake Tally Tokens
