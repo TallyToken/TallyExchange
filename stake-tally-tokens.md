@@ -101,12 +101,27 @@ Congratulations, you have staked your Tally Tokens.
 
 ![](<.gitbook/assets/image (5).png>)
 
-### Harvest your rewards (Get Tally)
+### 🧑🏽‍🌾Harvest your rewards (Get Tally)
 
 You are able to withdraw your interest without unstaking your Tally Tokens. \
 \
-Simply click <mark style="color:green;">**Harvest**</mark> to reap your rewards while leaving your stake in place to generate more rewards.\
+Simply click <mark style="color:green;">**Harvest**</mark> to reap your rewards while leaving your stake in place to generate more rewards.
 
+### ♻️Compound your rewards (Get even more Tally)
+
+This feature is where the magic happens.  Resubmit your rewards back into the pool.  This increases the amount of rewards you will earn back.\
+\
+**Example:**
+
+* Stake 1,000,000 Tally
+* Rewards Received = 1,643 Tally  (in 24 hours)\
+  _<mark style="color:blue;">The rewards/interest based on the 1,000,000 stake</mark>_
+* Compound the Rewards = 1,001,600 Staked\
+  _<mark style="color:blue;">The rewards will be added to your 1,000,000</mark>_
+* Rewards Received = 1,646 Tally (in 24 hours)\
+  _<mark style="color:blue;">The rewards/interest based on the 1,001,600 stake</mark>_
+
+This is done manually.  It is your choice how often you compound.  Keep in mind any gas fee that is charged by Binance for transaction.  Although it will be very low, it should not be higher or equal to the reward value.
 
 ### How to Unstake Tally Tokens ➖
 
