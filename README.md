@@ -2,6 +2,15 @@
 
 <mark style="color:blue;">The short answer:  Because it is unlike other tokens.</mark>
 
+<mark style="color:blue;">The fuller answer:  See below</mark>
+
+### The Tokenomics
+
+![BUY and SELL % can alter slightly to encourage buying pressure.  It will never go beyond 20%](<.gitbook/assets/image (2).png>)
+
+**Total Supply:**  1,000,000,000  \
+_<mark style="color:blue;">Only one billion Tally Tokens will ever exist.  Tally Tokens cannot be created, printed or minted.</mark>_
+
 ### Passive Income
 
 Tally Token is not unique with its passive income feature.  The difference is found in the route Tally Token is navigating in order to achieve passive income for holders.\
