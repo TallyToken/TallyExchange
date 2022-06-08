@@ -1,6 +1,7 @@
 # Table of contents
 
-* [💰 Add Liquidity (Airdrop Campaign)](README.md)
+* [🪙 Why Buy Tally Token?](README.md)
+* [💰 Add Liquidity (Airdrop Campaign)](<README (1).md>)
   * [❓ FAQs](readme/faqs.md)
 * [📥 How To Add Liquidity](how-to-add-liquidity.md)
 * [♨ How to Stake Liquidity](how-to-stake-your-liquidity.md)
