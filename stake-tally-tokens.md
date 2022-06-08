@@ -48,29 +48,33 @@ This is a good thing for TALLY holders because it supports the token and helps t
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
 2. Once your tokens are in your BSC Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
-   \
-   ![](<.gitbook/assets/Image 1 Pools Page.jpg>)\
-   \
+   ![](<.gitbook/assets/image (6).png>)\
 
 3. Unlock Wallet\
    \
    ![](<.gitbook/assets/Image 2 Connect Wallet.jpg>)\
 
 4. Once your wallet is connected, you will be prompted to Approve your Tally.\
-   ![](<.gitbook/assets/Image 3 Approve Tally.jpg>)\
+   \
+   ![](<.gitbook/assets/image (4).png>)\
+   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.</mark>_\
 
 5. Once you click on Approve.  Your wallet will reopen.  If it doesn't reopen, then revisit your wallet where you will find it waiting for your approval.\
    \
    Follow confirm transactions to transfer tokens to the pool\
    The Tally Tokens will leave your wallet and enter the pool\
    \
-   ![](<.gitbook/assets/Image 4 Approving Tally.jpg>)
+   ![](<.gitbook/assets/Image 4 Approving Tally.jpg>)\
+   \
+   The Tally Pool will open up\
+   ![](<.gitbook/assets/image (1).png>)\
+   \
+
 6. Enter the amount of Tally Tokens you would like to stake\
    \
-   ![](<.gitbook/assets/Image 5 Adding Tokens for Staking.jpg>)\
-
-
-![](<.gitbook/assets/Image 6 Confirm Stake.jpg>)
+   ![](<.gitbook/assets/image (3).png>)\
+   \
+   ![](<.gitbook/assets/image (2).png>)
 
 Click Confirm on the Exchange and then return to your wallet to also Confirm.\
 \
@@ -78,9 +82,9 @@ Congratulations, you have staked your Tally Tokens.
 
 ![](<.gitbook/assets/Image 7 COnfirm Stake on Wallet.jpg>)
 
-#### You instantly start receiving rewards (interest)
+#### You instantly start receiving rewards (interest) 
 
-![Harvest and Unstaking](<.gitbook/assets/Image 8 Harvest and remove stake.jpg>)
+![](<.gitbook/assets/image (5).png>)
 
 ### Harvest your rewards (Get Tally)
 
