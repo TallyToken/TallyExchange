@@ -2,7 +2,22 @@
 
 ### Earn Interest (APY)
 
-When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.
+When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as APR, APY is available to stakers.\
+\
+**What is APY?**\
+\
+APY is the same as APR but with compound interest added on.  The reason the APY is not displayed is because stakers have the freedom to decide how often they would like to compound their tokens for higher rewards.  The APY rate depends on compound frequency.
+
+#### Example of APY @60% APR
+
+<mark style="color:blue;">Users compound manually on the platform</mark>
+
+* **User compounds once per day:** <mark style="color:green;">APY = 82.12%</mark> <mark style="color:orange;"></mark>&#x20;
+* **User compounds once per week:** <mark style="color:green;">APY = 81.59%</mark>
+* **User compounds once per month:** <mark style="color:green;">APY = 79.59%</mark>
+* **User compounds quarterly:** <mark style="color:green;">APY = 74.9%</mark>
+* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)\
+
 
 ### Tally Pools
 
@@ -57,7 +72,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
 4. Once your wallet is connected, you will be prompted to Approve your Tally.\
    \
    ![](<.gitbook/assets/image (4).png>)\
-   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.</mark>_\
+   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform will work hard to bring the APR higher should it fall below.</mark>_  \
 
 5. Once you click on Approve.  Your wallet will reopen.  If it doesn't reopen, then revisit your wallet where you will find it waiting for your approval.\
    \
