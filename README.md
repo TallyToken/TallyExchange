@@ -12,7 +12,7 @@ description: 'Contract Address: 0xab15B3eeC70514308B0Ad65E8B760398c5839947'
 
 ![BUY and SELL % can alter slightly to encourage buying pressure.  It will never go beyond 20%](<.gitbook/assets/image (2) (1).png>)
 
-**Total Supply:**  1,000,000,000  \
+**Total Supply:**  1,000,000,000       There is a limit.\
 _<mark style="color:blue;">Only one billion Tally Tokens will ever exist.  Tally Tokens cannot be created, printed or minted.</mark>_
 
 ### Passive Income <mark style="color:green;">(Reflections)</mark>
