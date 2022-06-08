@@ -26,18 +26,18 @@ Passive income is sent to your wallet instantly.  You will see the amount of tok
 
 ### Staking Tally Tokens
 
-Looking for a way to earn interest?  \
+**Looking for a way to earn interest?**  _Take a look at staking options._\
 \
-Tally makes more Tally.  Staking is another way to see your tokens grow and grow.  This is comparable to generating interest.  As a reward for being part of the Tally Community and locking your tokens in a Tally Pool, you are rewarded with more Tally Tokens.    \
+Tally makes more Tally.  Staking is another way to see your tokens grow and grow.  This is comparable to generating interest.  As a reward for being part of the Tally Token Community and locking your tokens in a Tally Pool, you are rewarded with more Tally Tokens.  You are looking at APR rates 25%-90% dependent on how soon you enter the pool.  In any case, it is far higher than any bank of financial institution product.\
 \
 <mark style="color:blue;">What can you do with your token rewards?</mark>&#x20;
 
-1. Withdraw\
+1. **Withdraw**\
    _While keeping the rest of your tokens in the pool generating more rewards_
-2. Compound\
+2. **Compound**\
    _Take your rewards and add it to your original stake.  This allows you to generate even more interest  because your stake is higher.  You are able to compound your rewards as often as you like, it is a manual process._
-3. Take it all\
-   _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange_
+3. **Cash Out - Take it all**\
+   _Of course keeping your tokens staked is what we the community want all holders to do. The high rates is a good reason to do so.  However, it is no secret that the whole objective of staking is to make gains and enjoy the profits._ _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange._
 
 &#x20;           <mark style="color:orange;">****</mark>            [<mark style="color:orange;">**Tally Pools**</mark>](https://app.tally-ho.org/pools/stake\_tally) <mark style="color:orange;">**offer high APRs .**</mark>
 
