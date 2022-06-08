@@ -2,11 +2,11 @@
 
 ### Earn Interest (APY)
 
-When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as APR, APY is available to stakers.\
+When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as an Annual Percentage Rate (APR), users are offered an Annual Percentage Yield (APY) feature to help maximise earnings through manual recycling.\
 \
 **What is APY?**\
 \
-APY is the same as APR but with compound interest added on.  The reason the APY is not displayed is because stakers have the freedom to decide how often they would like to compound their tokens for higher rewards.  The APY rate depends on compound frequency.
+APY is the same as APR but with compound interest added on.  The reason the APY is not displayed on Tally Pools is because stakers have the freedom to decide how often they would like to compound their tokens for higher rewards.  The APY rate depends on compound frequency.
 
 #### Example of APY @60% APR
 
@@ -51,7 +51,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 ### &#x20;                                    Stake Tally Earn Tally
 
-![](<.gitbook/assets/Staking rates example.jpg>)
+![These figures do not take compounding into consideration which will yield a higher return](<.gitbook/assets/Staking rates example.jpg>)
 
 ### How to Stake Tally Tokens
 
