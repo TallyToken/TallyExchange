@@ -38,7 +38,7 @@ Tally makes more Tally.  Staking is another way to see your tokens grow and grow
 3. Take it all\
    _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange_
 
-&#x20;                                                               <mark style="color:orange;">**Tally Pools offers high APRs .**</mark>
+&#x20;                                                               <mark style="color:orange;">****</mark>                                                                [<mark style="color:orange;">**Tally Pools**</mark>](https://app.tally-ho.org/pools/stake\_tally) <mark style="color:orange;">**offer high APRs .**</mark>
 
 ### Owning Tally Tokens Provide Communal Income
 
