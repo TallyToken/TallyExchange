@@ -15,7 +15,7 @@ description: 'Contract Address: 0xab15B3eeC70514308B0Ad65E8B760398c5839947'
 **Total Supply:**  1,000,000,000  \
 _<mark style="color:blue;">Only one billion Tally Tokens will ever exist.  Tally Tokens cannot be created, printed or minted.</mark>_
 
-### Passive Income
+### Passive Income <mark style="color:green;">(Reflections)</mark>
 
 Tally Token is not unique with its passive income feature.  The difference is found in the route Tally Token is navigating in order to achieve passive income for holders.\
 \
