@@ -1,3 +1,7 @@
+---
+description: 'Contract Address: 0xab15B3eeC70514308B0Ad65E8B760398c5839947'
+---
+
 # 🪙 Why Buy Tally Token?
 
 <mark style="color:blue;">The short answer:  Because it is unlike other tokens.</mark>
