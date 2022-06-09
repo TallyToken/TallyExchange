@@ -8,6 +8,8 @@ description: >-
 
 **Please note:**  <mark style="color:blue;">The</mark> <mark style="color:blue;">Metamask wallet is not shown on the videos.  For security purposes, Metamask blocks videos from recording activity performed.  When you connect your wallet, simply confirm transactions to proceed to next stages.</mark>
 
+📋Firstly, make sure you have Tally Tokens in your wallet.
+
 ### How to Stake Tally Token
 
 <mark style="color:blue;">See Video</mark>
