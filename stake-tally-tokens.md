@@ -21,9 +21,11 @@ APY is the same as APR but with compound interest added on.  The reason the APY 
 
 ### Tally Pools
 
+The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest yields.\
+\
 Tally Exchange has one of the highest APR rates in the business due to the ecosystem supporting the token.&#x20;
 
-With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol.&#x20;
+With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol to deliver longevity.
 
 Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing high APR which is the main goal.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
 <mark style="color:blue;">See staking tables below.</mark>\
