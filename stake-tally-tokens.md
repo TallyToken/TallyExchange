@@ -25,7 +25,8 @@ Tally Exchange has one of the highest APR rates in the business due to the ecosy
 
 With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol.&#x20;
 
-Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing high APR which is the main goal.\
+Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing high APR which is the main goal.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
+<mark style="color:blue;">See staking tables below.</mark>\
 \
 **Staking fee**
 
