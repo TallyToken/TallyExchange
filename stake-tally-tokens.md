@@ -76,12 +76,12 @@ This is a good thing for TALLY holders because it supports the token and helps t
 4. Once your wallet is connected, you will be prompted to Approve your Tally.\
    \
    ![](<.gitbook/assets/image (4).png>)\
-   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform will work hard to bring the APR higher should it fall below.</mark>_  \
+   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform will work hard to bring the APR higher should it fall under.</mark>_  \
 
-5. Once you click on Approve.  Your wallet will reopen.  If it doesn't reopen, then revisit your wallet where you will find it waiting for your approval.\
+5. Once you click on Approve, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it waiting for your approval.\
    \
-   Follow confirm transactions to transfer tokens to the pool\
-   The Tally Tokens will leave your wallet and enter the pool\
+   Follow the instructions confirming transactions.  Your tokens will be transferred to the pool.\
+   You will see your Tally Tokens leave your wallet and enter the pool.\
    \
    ![](<.gitbook/assets/Image 4 Approving Tally.jpg>)\
    \
