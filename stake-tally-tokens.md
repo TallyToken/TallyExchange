@@ -21,7 +21,9 @@ APY is the same as APR but with compound interest added on.  The reason the APY 
 
 ### Tally Pools
 
-The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest yields.\
+The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest yields.  \
+\
+**How it works:**  Early stakers manage to get in on the crazy % rates gaining maximum pay outs and later entrants bring the % rate down.\
 \
 Tally Exchange has one of the highest APR rates in the business due to the ecosystem supporting the token.&#x20;
 
