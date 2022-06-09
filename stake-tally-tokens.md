@@ -25,11 +25,11 @@ Tally Exchange has one of the highest APR rates in the business due to the ecosy
 
 With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol.&#x20;
 
-Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.\
+Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.\
 \
-**Unstaking fee**
+**Staking fee**
 
-<mark style="color:blue;">0.4%</mark>
+<mark style="color:blue;">Currently set at 0.4%</mark>
 
 Tally Exchange does not require users to lock in their funds when staking.  Many exchanges have a penalty fee for withdrawing early as a forfeit, this is necessary for stability and safety.\
 &#x20;\
@@ -39,6 +39,7 @@ Stake tokens and within a short length of time, stakers start to earn more than 
 
 **Performance fee**
 
+<mark style="color:blue;">Currently set at 0.4%</mark>\
 0.4%, subtracted automatically from each yield harvest.
 
 For example, if the harvest were 1000 TALLY, then 4 TALLY would be subtracted as the performance fee.
@@ -51,7 +52,9 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 ### &#x20;                                    Stake Tally Earn Tally
 
-![These figures do not take compounding into consideration which will yield a higher return](<.gitbook/assets/Staking rates example.jpg>)
+![These figures do not take compounding into consideration which will yield a higher return](<.gitbook/assets/image (10).png>)
+
+![These figures do not take compounding into consideration which will yield a higher return](<.gitbook/assets/image (9).png>)
 
 ### How to Stake Tally Tokens
 
@@ -63,7 +66,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
 2. Once your tokens are in your BSC Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
-   ![](<.gitbook/assets/image (6).png>)\
+   ![](<.gitbook/assets/image (6) (1).png>)\
 
 3. Unlock Wallet\
    \
@@ -99,7 +102,7 @@ Congratulations, you have staked your Tally Tokens.
 
 #### You instantly start receiving rewards (interest) 
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 ### 🧑🏽‍🌾Harvest your rewards (Get Tally)
 
@@ -109,7 +112,7 @@ Simply click <mark style="color:green;">**Harvest**</mark> to reap your rewards 
 
 ### ♻️Compound your rewards (Get even more Tally)
 
-This feature is where the magic happens.  Resubmit your rewards back into the pool.  This increases the amount of rewards you will earn back.\
+This feature is where the magic happens.  Keep manually adding your rewards to your principal stake.  This increases the amount of rewards you will earn back.\
 \
 **Example:**
 
@@ -117,7 +120,7 @@ This feature is where the magic happens.  Resubmit your rewards back into the po
 * Rewards Received = 1,643 Tally  (in 24 hours)\
   _<mark style="color:blue;">The rewards/interest based on the 1,000,000 stake</mark>_
 * Compound the Rewards = 1,001,600 Staked\
-  _<mark style="color:blue;">The rewards will be added to your 1,000,000</mark>_
+  _<mark style="color:blue;">The rewards will be added to your principal - 1,000,000</mark>_
 * Rewards Received = 1,646 Tally (in 24 hours)\
   _<mark style="color:blue;">The rewards/interest based on the 1,001,600 stake</mark>_
 
