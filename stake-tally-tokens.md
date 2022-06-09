@@ -2,7 +2,7 @@
 
 ### Earn Interest (APY)
 
-When you stake Tally Tokens, you are rewarded more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as an Annual Percentage Rate (APR), users are offered an Annual Percentage Yield (APY) feature to help maximise earnings through manual recycling.\
+When you stake Tally Tokens, you are rewarded with more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as an Annual Percentage Rate (APR), users are offered an Annual Percentage Yield (APY) feature to help maximise earnings through manual recycling.\
 \
 **What is APY?**\
 \
