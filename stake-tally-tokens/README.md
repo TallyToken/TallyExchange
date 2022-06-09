@@ -1,5 +1,11 @@
 # ♨ Stake Tally Tokens
 
+### Tally Token as a Reward Token
+
+There is a clear advantage in staking Tally Tokens in comparison with other tokens offered by similar platforms.  Tally Token is a _deflationary_ token.  Most decentralised staking platforms offer native tokens as rewards.  Those native tokens are literally minted as required therefore devaluing their currency making the token inflationary.  They develop protocols in an attempt to offset the loss factor with methods such as regular token burning.  \
+\
+What separates Tally Token from the rest is the fact that Tally Token cannot be minted out of thin air.  The price of Tally Token will rise as more people buy and hold.  Staking is a good way to hold your tokens and generate interest at the same time.  There is only a limited total supply of 1 billion.
+
 ### Earn Interest (APY)
 
 When you stake Tally Tokens, you are rewarded with more Tally Tokens.  Please check [Pools](https://app.tally-ho.org/pools/stake\_tally) to find the current % rate of rewards.  Although the interest rate is shown as an Annual Percentage Rate (APR), users are offered an Annual Percentage Yield (APY) feature to help maximise earnings through manual recycling.\
