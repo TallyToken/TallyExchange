@@ -30,7 +30,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (1).png>)
 
-![](<.gitbook/assets/image (18).png>)
+![](<.gitbook/assets/image (18) (1).png>)
 
 ![](<.gitbook/assets/image (5).png>)
 
@@ -84,7 +84,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (16).png>)
 
-![](<.gitbook/assets/image (36).png>)
+![](<.gitbook/assets/image (36) (1).png>)
 
 ![](<.gitbook/assets/image (7).png>)
 

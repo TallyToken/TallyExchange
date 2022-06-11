@@ -27,36 +27,43 @@ Passive income is sent to your wallet instantly.  You will see the amount of tok
 ### Staking Tally Tokens
 
 **Looking for a way to earn interest?**  _Take a look at staking options._\
+__\
+__![](<.gitbook/assets/image (36).png>)
+
+_<mark style="color:blue;">Rates are incredible but most importantly, they are real.</mark>_\
 \
-Tally makes more Tally.  Staking is another way to see your tokens grow and grow.  This is comparable to generating interest.  As a reward for being part of the Tally Token Community and locking your tokens in a Tally Pool, you are rewarded with more Tally Tokens.  You are looking at APR rates 25%-90% dependent on how soon you enter the pool.  In any case, it is far higher than any bank of financial institution product.\
+Tally makes more Tally.  Staking is another way to see your tokens grow and grow.  This is comparable to generating interest.  As a reward for being part of the Tally Token Community and locking your tokens in a Tally Pool, you are rewarded with more Tally Tokens.  You are looking at APR rates 25%-90%+ dependent on how soon you enter the pool.  In any case, it is far higher than any bank or financial institution product.\
 \
 <mark style="color:blue;">What can you do with your token rewards?</mark>&#x20;
 
-1. **Withdraw**\
-   _While keeping the rest of your tokens in the pool generating more rewards_
+1. **Harvest**\
+   Only withdraw the interest and keep _the rest of your tokens in the pool generating more rewards._
 2. **Compound**\
-   _Take your rewards and add it to your original stake.  This allows you to generate even more interest  because your stake is higher.  You are able to compound your rewards as often as you like, it is a manual process._
+   _Take your rewards and add it to your principal stake.  This allows you to generate even more interest  because your principal is higher.  You are able to compound your rewards as often as you like, it is a manual process._
 3. **Cash Out - Take it all**\
-   _Of course keeping your tokens staked is what we the community want all holders to do. The high rates is a good reason to do so.  However, it is no secret that the whole objective of staking is to make gains and enjoy the profits._ _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange._
+   _Of course keeping your tokens staked is what we the community would like all holders to do. The high rates is a good reason to do so.  However, it is no secret that the whole objective of staking is to make gains and enjoy the profits._ _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange.  Removing tokens can be done at any time._
 
 &#x20;           <mark style="color:orange;">****</mark>            [<mark style="color:orange;">**Tally Pools**</mark>](https://app.tally-ho.org/pools/stake\_tally) <mark style="color:orange;">**offer high APRs .**</mark>
 
 ### Owning Tally Tokens Provide Communal Income
 
-Tally Token was founded for the benefit of societies through useful use cases.  Branded the Youtility token, community focus is always the first priority.  \
+Tally Token was founded to be of benefit to societies through useful use cases.  Branded the Youtility token, community focus is always the first priority.  \
 <mark style="color:orange;">The main agenda:</mark> _To bring innovative products and services onto the market._ \
 <mark style="color:orange;">The end game:</mark> _To generate a sustainable revenue for Tally Token holders that can withstand the test of time._  \
 \
-**Currency**\
-One of the main objectives is for Tally Token to be used as a currency accepted to purchase products and services both in-house and through partnerships.\
+**As a** **Currency**\
+One of the main objectives is for Tally Token to be used as a currency accepted for products and services both in-house and through partnerships.\
 \
-Each time Tally Tokens are used to purchase goods, products, or services; revenue is shared between all Tally Token holders.  It operates in the same way as the automated passive income generated when Tally Token is traded; every holder receives their share of revenue instantly into their wallets.  Real Time.
+Each time Tally Tokens are used to purchase goods, products, or services; revenue is shared between all Tally Token holders.  It operates in the same way as the automated passive income that is generated when Tally Token is traded; every holder receives their share of revenue instantly into their wallets in real time.  Passive income is not paid out daily, weekly, monthly or annually; passive is received immediately into holders' wallets.  That's _Youtility!_
 
 ### Exclusive Access and Premium Features
 
 As Tally Token ages, there will be more products, services, discounts and opportunities available to Tally Token holders.  Certain products offer premium features making them free for Tally Token holders\
 \
-To be classed as a Tally Token holder requires a set amount of tokens to be staked in a Tally Pool. See Tally Tiers for further information.
+To be classed as a Tally Token holder requires a set amount of tokens to be staked in a Tally Pool. See Tally Tiers for further information.\
+
+
+![Become a Tally Token Holder](<.gitbook/assets/image (18).png>)
 
 **NFT Marketplace and Launchpad (Coming Soon)**\
 \
@@ -66,8 +73,8 @@ It is a requirement to be a Tally Token holder to access the launchpad and get e
 \
 _**And there you go.**_\
 \
-1\. Tally Tokens generates income to all holders each time another Tally is purchased or traded.\
-2\. Tally Tokens generates yield when staked in Tally Pools\
-3\. Every Tally Token holder receives a share of all revenue generated by Tally Token through sales.\
+1\. Tally Tokens generate income to all holders each time another Tally is purchased or traded.\
+2\. Tally Tokens generate yield when staked in Tally Pools\
+3\. Every Tally Token holder receives a share of all revenue generated by Tally Token through use as a currency.\
 \
 _<mark style="color:blue;">**Join the Tally Token community - Buy Tally Token**</mark>_
