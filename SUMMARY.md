@@ -9,3 +9,4 @@
 * [♨ Stake Tally Tokens](stake-tally-tokens/README.md)
   * [📺 New to Staking](stake-tally-tokens/new-to-staking.md)
 * [❓ 🤷‍♂️General FAQs](general-faqs.md)
+* [📋 Audit✅](audit.md)

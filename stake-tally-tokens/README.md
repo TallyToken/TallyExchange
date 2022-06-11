@@ -63,9 +63,9 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 ### &#x20;                                    Stake Tally Earn Tally
 
-![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (10).png>)
+![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (10) (1).png>)
 
-![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (9).png>)
+![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (9) (1).png>)
 
 ### How to Stake Tally Tokens
 
@@ -77,7 +77,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
 2. Once your tokens are in your BSC Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
-   ![](<../.gitbook/assets/image (6) (1).png>)\
+   ![](<../.gitbook/assets/image (6) (1) (1).png>)\
 
 3. Unlock Wallet\
    \
@@ -85,7 +85,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 4. Once your wallet is connected, you will be prompted to Approve your Tally.\
    \
-   ![](<../.gitbook/assets/image (4).png>)\
+   ![](<../.gitbook/assets/image (4) (1).png>)\
    _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform will work hard to bring the APR higher should it fall under.</mark>_  \
 
 5. Once you click on Approve, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it waiting for your approval.\
@@ -96,14 +96,14 @@ This is a good thing for TALLY holders because it supports the token and helps t
    ![](<../.gitbook/assets/Image 4 Approving Tally.jpg>)\
    \
    The Tally Pool will open up\
-   ![](<../.gitbook/assets/image (1).png>)\
+   ![](<../.gitbook/assets/image (1) (1).png>)\
    \
 
 6. Enter the amount of Tally Tokens you would like to stake\
    \
-   ![](<../.gitbook/assets/image (3).png>)\
+   ![](<../.gitbook/assets/image (3) (1).png>)\
    \
-   ![](<../.gitbook/assets/image (2).png>)
+   ![](<../.gitbook/assets/image (2) (1).png>)
 
 Click Confirm on the Exchange and then return to your wallet to also Confirm.\
 \
@@ -113,7 +113,7 @@ Congratulations, you have staked your Tally Tokens.
 
 #### You instantly start receiving rewards (interest) 
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ### 🧑🏽‍🌾Harvest your rewards (Get Tally)
 
