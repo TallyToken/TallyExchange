@@ -12,15 +12,15 @@ description: >-
 
 ### How to Stake Tally Token
 
-<mark style="color:blue;">See Video</mark>
+<mark style="color:blue;">See Video below</mark>
 
 {% file src="../.gitbook/assets/How to Stake Tally.mp4" %}
-Short visual learner
+Get your Tally Tokens here: [https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
 {% endfile %}
 
 ### How to Harvest Tally Tokens
 
-<mark style="color:blue;">See Video</mark>
+<mark style="color:blue;">See Video below</mark>
 
 {% file src="../.gitbook/assets/How to Harvest Tally.mp4" %}
 See the process of receiving rewards straight to your wallet
@@ -28,7 +28,7 @@ See the process of receiving rewards straight to your wallet
 
 ### How to Compound Tally Tokens
 
-<mark style="color:blue;">See Video</mark>
+<mark style="color:blue;">See Video below</mark>
 
 {% file src="../.gitbook/assets/How to Manually Compound Tally.mp4" %}
 See the magic happen right here. Compounding your own funds manually is a privilege&#x20;
@@ -36,6 +36,6 @@ See the magic happen right here. Compounding your own funds manually is a privil
 
 ### How to Withdraw Tally and Rewards to your Wallet
 
-<mark style="color:blue;">See Video</mark>
+<mark style="color:blue;">See Video below</mark>
 
 {% file src="../.gitbook/assets/How to Withdraw your Stake.mp4" %}
