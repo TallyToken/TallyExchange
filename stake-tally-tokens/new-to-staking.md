@@ -8,14 +8,14 @@ description: >-
 
 **Please note:**  <mark style="color:blue;">The</mark> <mark style="color:blue;">Metamask wallet is not shown on the videos.  For security purposes, Metamask blocks videos from recording activity performed.  When you connect your wallet, simply confirm transactions to proceed to next stages.</mark>
 
-📋Firstly, make sure you have Tally Tokens in your wallet.
+#### 📋Firstly, make sure you have Tally Tokens in your wallet.  Get your Tally Tokens here: [https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
 
 ### How to Stake Tally Token
 
 <mark style="color:blue;">See Video below</mark>
 
 {% file src="../.gitbook/assets/How to Stake Tally.mp4" %}
-Get your Tally Tokens here: [https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
+Short visual learner
 {% endfile %}
 
 ### How to Harvest Tally Tokens
