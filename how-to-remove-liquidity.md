@@ -16,7 +16,7 @@
 
 ![](<.gitbook/assets/Image 3 for Remove LiquidityScreenshot.jpg>)
 
-4\. Go to the [**Liquidity**](https://exchange.biswap.org/#/pool) tab, find your **Liquidity**, and click on the arrow.\
+4\. Go to the Liquidity tab, find your **Liquidity**, and click on the arrow.\
 If you don't see your liquidity - Click on Import it!
 
 ![](<.gitbook/assets/Image 4 for Remove LiquidityScreenshot.jpg>)
