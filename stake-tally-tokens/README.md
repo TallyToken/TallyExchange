@@ -18,12 +18,17 @@ APY is the same as APR but with compound interest added on.  The reason the APY 
 
 <mark style="color:blue;">Users compound manually on the platform</mark>
 
-* **User compounds once per day:** <mark style="color:green;">APY = 82.12%</mark> <mark style="color:orange;"></mark>&#x20;
-* **User compounds once per week:** <mark style="color:green;">APY = 81.59%</mark>
-* **User compounds once per month:** <mark style="color:green;">APY = 79.59%</mark>
-* **User compounds quarterly:** <mark style="color:green;">APY = 74.9%</mark>
-* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)\
-  &#x20;                                                                _<mark style="color:purple;">Not the 60% 🤣 but the one time only compound</mark>_.
+* **User compounds once per day:** \
+  <mark style="color:green;">APY = 82.12%</mark> <mark style="color:orange;"></mark>&#x20;
+* **User compounds once per week:** \
+  ****<mark style="color:green;">APY = 81.59%</mark>
+* **User compounds once per month:** \
+  <mark style="color:green;">APY = 79.59%</mark>
+* **User compounds quarterly:** \
+  ****<mark style="color:green;">APY = 74.9%</mark>
+* **User compounds once per year:** \
+  <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)\
+  &#x20;       _<mark style="color:purple;">Not the 60% 🤣 but the one time only compound</mark>_.
 
 <mark style="color:red;">Be aware of gas fees when compounding and factor it in when deciding the best time to make the transaction.</mark>
 
