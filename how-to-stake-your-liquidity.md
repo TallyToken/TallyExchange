@@ -2,13 +2,13 @@
 description: Farming
 ---
 
-# ♨ How to stake your Liquidity
+# ♨ How to Stake Liquidity
 
 **Farming** is a passive income opportunity that allows you to multiply crypto with **high APRs** by providing liquidity to a chosen pair of tokens.
 
 Once you have provided the liquidity on Tally Exchange you receive **LP tokens** which can be later staked to **Enable Farm** and earn you extra passive income on top of the income you receive from trading fees. You receive **Tally Tokens rewards.** See examples.
 
-![](<../.gitbook/assets/Farm page example.jpg>)
+![](<.gitbook/assets/Farm page example.jpg>)
 
 Let's go step-by-step to guide you and so you can gain a better understanding of farming.\
 The **BNB-TALLY Farming Pair** will be used again in this guide.
@@ -21,13 +21,13 @@ The liquidity needs to be provided for two tokens. You cannot provide for one to
 \
 The beauty of the Tally Protocol is the relationship between Provider and Trader. The Provider earns 0.17% of each trade on their provided pair AND the Trader earns Tally Tokens of 0.03% on their purchase. Earnings on both sides. On the trading side, this is called Tally<mark style="color:green;">BACK</mark>.
 
-![](<../.gitbook/assets/TallySWAP Gif for HomePage.gif>)
+![](<.gitbook/assets/TallySWAP Gif for HomePage.gif>)
 
 ### Enter the Farming Pool and Get your Free Tally Tokens as Rewards with High APY
 
 1. Find **BNB-TALLY Farming Pair** and click the <mark style="color:green;">**Get LP**</mark> button
 
-![](<../.gitbook/assets/Get LP image for staking.jpg>)
+![](<.gitbook/assets/Get LP image for staking.jpg>)
 
 You will be automatically transferred to the [**Liquidity page**](https://exchange.biswap.org/#/pool) where you can provide liquidity for BNB-TALLY tokens in the farming pair.
 
@@ -42,8 +42,6 @@ You will be automatically transferred to the [**Liquidity page**](https://exchan
 Success! S**take your LP tokens in the BNB-TALLY Farming Pair to start receiving FREE TALLY**
 
 5\. Click <mark style="color:green;">**Stake LP tokens**</mark> under **BNB-TALLY Farming pair** to **Enable the BNB-TALLY Farming Pair** and **start receiving TALLY** rewards
-
-![](<../.gitbook/assets/Image 1 for Stake LiquidityScreenshot.jpg>)
 
 ### Note: <a href="#what-is-impermanent-loss" id="what-is-impermanent-loss"></a>
 
@@ -69,4 +67,4 @@ Undoubtedly, the DeFi is educating the masses on how big institutions earn. It s
 
 You can easily find **Live Farming Pairs** that you can join and if you don't find a pair, you can open a new pair.:
 
-![](<../.gitbook/assets/Farm page example.jpg>)
+![](<.gitbook/assets/Farm page example.jpg>)
