@@ -4,7 +4,7 @@ description: Earn 0.17% passive income on Trading Volume - It's that simple!
 
 # 📥 How To Add Liquidity
 
-Exchanges need liquidity to operate.  Decentralised Exchanges require a community to take the place of the big corporations and the backing behind Centralised Exchanges.  Without a community of Liquidity Providers, trade cannot take place.  Tally Exchange invites you to join the cause to offer a way to Earn Back Better.  Together, we can make Tally Exchange the platform that actually benefits all users.
+Exchanges need liquidity to operate.  Decentralised Exchanges require a community to take the place of the big corporations and the backing behind centralised exchanges.  Without a community of Liquidity Providers, trade cannot take place.  Tally Exchange invites you to join the cause to offer a way to _Earn Back Better_.  Together, we can make Tally Exchange the platform that actually benefits all users.
 
 ### Adding Liquidity
 
@@ -18,17 +18,17 @@ _<mark style="color:blue;">This is 0.17% of the trading volume and it is calcula
 
 **Example of Adding Liquidity**
 
-> _If you choose to add liquidity of $BNB / $BUSD, you will receive BNB-BUSD LP tokens. The number of LP tokens you receive represents your share in BNB-BUSD liquidity pool. You can always request the withdrawal of your funds by removing your liquidity._
+> _If you choose to add liquidity of $BNB / $BUSD, you will receive a BNB-BUSD LP token. The LP token you receive represents your share of BNB-BUSD in the liquidity pool. You can always  withdraw your funds by removing your liquidity with the LP Token._
 
-When you add liquidity you need to have a sufficient amount of each token. It works in pairs and directly corrolates to the pairs that traders swap when selling and purchasing tokens on TallySWAP.\
+When you add liquidity you need to have a sufficient amount of each token. It works in pairs and directly corrolates to the pairs that traders swap when selling and purchasing tokens on Tally_SWAP._\
 **ie.** **Picture the following;** \
-Adding the following pairing:  1 BNB / 308 BUSD. \
+You add the following pairing:  1 BNB / 308 BUSD. \
 \
 If you have less than 308 BUSD or less than 1 BNB, you won't be able to add the liquidity. You will not be allowed to proceed further. You need to have a sufficient amount of each token.
 
-❗️ **We use WBNB on the BEP-20 network, Binance Smart Chain. So BNB (BEP-2) tokens need to be wrapped (become WBNB) to provide liquidity. You may wrap BNB to WBNB by making a swap on the** [**Exchange**](https://exchange.biswap.org/#/swap) **tab. (If not, visit Pancakeswap)**
+❗️ **We use WBNB on the BEP-20 network, Binance Smart Chain. So BNB (BEP-2) tokens need to be wrapped (become WBNB) to provide liquidity. You may wrap BNB to WBNB by making a swap on Tally Exchange. (If not available, visit Pancakeswap)**
 
-As described above with token pair balancing. Enter the equivalent amount of each token from your chosen pair and click the <mark style="color:green;">**Approve**</mark> button
+As described above with token pair balancing - Enter the equivalent amount of each token from your chosen pair and click the <mark style="color:green;">**Approve**</mark> button
 
 Adding Liquidity to Tally Exchange follows the same principle as adding on Pancakeswap. See video as guidance based on Pancakeswap
 
@@ -36,26 +36,26 @@ Adding Liquidity to Tally Exchange follows the same principle as adding on Panca
 
 {% embed url="https://www.youtube.com/watch?v=Pq8SbKR5qHM" %}
 
-All being well, you have supplied liquidity of the pair and ready to receive your fee portion from the trading on that pair. You will receive LP Tokens of **BNB-BUSD.** \
+All being well, you have supplied liquidity of the pair and ready to receive your fee portion from  trades on that pair. You will receive the following LP Token - **BNB-BUSD.** \
 \
-From here, you can use these LP Tokens and stake them in the Farm.  This would provide a secondary income earning Tally Token at a APR far higher than banks give as interest.
+From here, you can use these LP Tokens and stake them in the Tally Farm.  This would provide a secondary income earning you some Tally Tokens at an APR far higher than banks give as interest.
 
 ### You might be the first provider of your chosen tokens
 
 Tally Exchange is a relatively new platform and many pairs will not be available.  New tokens and different pairs are welcome.\
 ![](<.gitbook/assets/image (34).png>)\
 \
-This platform should be the place to find rare tokens or pairs that are not necessarily available elsewhere.  If you do not see the token displayed for selection, paste the token address in the search bar.
+This platform should be the place where people find rare tokens or pairs that are not necessarily available elsewhere.  If you do not see the token displayed for selection, paste the token address in the search bar.  _<mark style="color:orange;">Make sure it is a BSC Token or your token will not appear.</mark>_
 
 If you are the first provider of a particular pair, you will see the following message:
 
 ![](<.gitbook/assets/image (39).png>)
 
-At this point, you are shown the balance of each token in your wallet and you must decide the ratio.  It is an important step.
+At this point, you are shown the balance of each token in your wallet and you must decide the ratio in which to deposit.  It is an important step.
 
 #### What are you supposed to do as a first provider?
 
-1. Make sure you know the actual price against each token.  You need to check the token pair on another exchange.\
+1. Make sure you know the actual price against each token, the actual price of the pair. To do this, you will need to check the token pair on other exchanges.  You should check more than one.\
    _<mark style="color:orange;">This is important because what you are about to do, is to set the price that these tokens will be bought and sold for on Tally Exchange.  The objective is to match the price offered on other exchanges or charts.</mark>_\
    \
    Check the price on [PancakeSwap](https://pancakeswap.finance/swap) or check [Poocoin](https://poocoin.app/tokens/) or [Coin Market Cap](https://coinmarketcap.com/).  For popular tokens you can check centralised exchanges and match with one of them.
@@ -69,24 +69,24 @@ At this point, you are shown the balance of each token in your wallet and you mu
 4. Well done, you are now a liquidity provider.  \
    _<mark style="color:orange;">You will receive a LP Token as receipt for your deposit</mark>_
 
-**Congratulations!** You will receive 0.17% of all fees when your token pair is traded on TallySWAP.\
+**Congratulations!** You will receive 0.17% of all fees when your token pair is traded on Tally_SWAP_.\
 
 
 ### Want to Earn more than 0.17%?
 
-Visit Tally Farms.  \
-There are liquidity pools where Liquidity Providers are able to stake LP tokens and earn Tally Tokens.\
+**Visit Tally Farms:**  \
+There are liquidity pools where Liquidity Providers are able to stake LP tokens and earn Tally Tokens.  Check out the high APY offered for your LP Token.\
 \
-What does this mean?\
+**What does all of this mean?**\
 Liquidity Providers have up to <mark style="color:orange;">**three**</mark> streams of passive income available:
 
-1. Income from trading fees (TallySWAP) 0.17%
+1. Income from trading fees (Tally_SWAP_) 0.17%
 2. Income from Farming (LP Staking earns Tally Tokens) High Yield APY (variable %)
-3. Income from Staking earned Tally Token rewards (Tally Staking Pools) APR from 20-60%+&#x20;
+3. Income from Staking in the staking pools. (Tally earns Tally @ APR from 20-60%+)&#x20;
 
 
 
 #### If you do not see the liquidity you provided automatically
 
-Go to the [**Liquidity**](https://exchange.biswap.org/#/pool) tab, find your **Liquidity**, and click on the arrow.\
+Go to the Liquidity tab, find your **Liquidity**, and click on the arrow.\
 If you don't see your liquidity - Click on Import it!
