@@ -2,9 +2,9 @@
 
 ### Tally Token as a Reward Token
 
-There is a clear advantage in staking Tally Tokens in comparison with other tokens offered by similar platforms.  Tally Token is a _deflationary_ token.  Most decentralised staking platforms offer native tokens as rewards.  Those native tokens are literally minted as required therefore devaluing their currency making the token inflationary.  They develop protocols in an attempt to offset the loss factor with methods such as regular token burning.  \
+There is a clear advantage with staking Tally Tokens in comparison with other tokens offered by similar platforms.  Tally Token is a _deflationary_ token.  Most decentralised staking platforms offer native tokens as rewards.  Those native tokens are literally minted as required therefore devaluing their currency making the token inflationary.  They develop protocols in an attempt to offset the loss factor with methods such as regular token burning.  \
 \
-What separates Tally Token from the rest is the fact that Tally Token cannot be minted out of thin air.  The price of Tally Token will rise as more people buy and hold.  Staking is a good way to hold your tokens and generate interest at the same time.  There is only a limited total supply of 1 billion.
+What separates Tally Token from the rest is the fact that Tally Token cannot be minted out of thin air.  The price of Tally Token will rise as more people buy and hold.  Staking is a good way to hold your tokens and generate interest at the same time.  There is only a limited total supply of 1 billion Tally Tokens.
 
 ### Earn Interest (APY)
 
@@ -22,23 +22,24 @@ APY is the same as APR but with compound interest added on.  The reason the APY 
 * **User compounds once per week:** <mark style="color:green;">APY = 81.59%</mark>
 * **User compounds once per month:** <mark style="color:green;">APY = 79.59%</mark>
 * **User compounds quarterly:** <mark style="color:green;">APY = 74.9%</mark>
-* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)
+* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)\
+  &#x20;                                                                _<mark style="color:purple;">Not the 60% 🤣 but the one time only compound</mark>_.
 
-<mark style="color:red;">Be aware of gas fees when compounding and factor it when deciding the best time to make the transaction.</mark>
+<mark style="color:red;">Be aware of gas fees when compounding and factor it in when deciding the best time to make the transaction.</mark>
 
 ### Tally Pools
 
-The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest reward.  \
+The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield; its the earliest participants who catch the best rates and reap the highest reward.  \
 \
-**How it works:**  Early stakers manage to get in on the crazy % rates gaining maximum pay outs and later entrants bring the % rate down.\
+**How it works:**  Early stakers manage to get in on the crazy % rates gaining maximum interest.  As more people enter the pool, the APR lowers. Later entrants bring the % rate down.  Get in early.\
 \
 Tally Exchange has one of the highest APR rates in the business due to the ecosystem supporting the token.&#x20;
 
 With the added performance incorporated focusing on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol to deliver longevity.
 
-Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing APR.  The aim is to keep it high attracting more and more users.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
+Keeping in line with competitors, Tally staking fees are capped at 2%.  The Current rate is at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing APR.  Being a deflationary token, the APR cannot be regulated by simply minting new tokens into existence, therefore fees are one aspect used to maintain a high ROI and  attract more and more users.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
 \
-Fees also react to the markets.  It may rise in order to prevent flash attacks and bot looking to exploit the pool.  One of the prime factors that may raise a fee is to use the higher rate as a mechanism to protect real human stakers.  It is necessary at certain times to deter arbitrage opportunists from attempting to take advantage.\
+Fees also react to the markets.  It may rise in order to prevent flash attacks and dissuade bots looking to exploit the pool.  One of the prime factors that may raise a fee is to use the higher rate as a mechanism to protect real human stakers.  It is necessary at certain times to deter arbitrage opportunists from attempting to take advantage.\
 <mark style="color:blue;">See staking tables below.</mark>\
 \
 **Staking fee**
@@ -47,20 +48,18 @@ Fees also react to the markets.  It may rise in order to prevent flash attacks a
 
 Tally Exchange does not require users to lock in their funds when staking.  Many exchanges have a penalty fee for withdrawing early as a forfeit, this is necessary for stability and safety.\
 &#x20;\
-There is a un-staking fee attached to staking which is small enough to be recoupable within days of staking.&#x20;
+There is a staking fee attached to staking which is small enough to be recoupable within days of staking.&#x20;
 
-Stake tokens and within a short length of time, stakers start to earn more than the un-stake fee and start seeing gains.  Similar staking platforms apply a 72 hour minimum lock time.
+Users will see within a short length of time that the staking fee has been earned back.  At that pojnt, stakers start to earn more than the stake fee and start seeing gains.  Similar staking platforms apply a 72 hour minimum lock time.
 
 **Performance fee**
 
 <mark style="color:blue;">Currently set at 0.4%</mark>\
-0.4%, subtracted automatically from each yield harvest.
+0.4%, subtracted automatically when unstaking.
 
-For example, if the harvest were 1000 TALLY, then 4 TALLY would be subtracted as the performance fee.
-
-The TALLY collected via the un-staking fee and performance fee is directed towards marketing, maintenance and operations, and buyback reserves.\
+The TALLY collected via the performance fee is directed towards marketing, maintenance and operations, and buyback reserves.\
 \
-This is a good thing for TALLY holders because it supports the token and helps to bring Tally Token to a wider audience by increasing awareness and growing the community.
+This is a good thing for TALLY holders because it supports the token and helps to bring Tally Token to a wider audience by increasing awareness and growing the community as well as further project development.
 
 #### <mark style="color:blue;">**The following table is for informational purposes only (figures are an approximation and differs according to market and current rates)**</mark>
 
@@ -88,15 +87,13 @@ This is a good thing for TALLY holders because it supports the token and helps t
    \
    ![](<../.gitbook/assets/Image 2 Connect Wallet.jpg>)\
 
-4. Once your wallet is connected, you will be prompted to Approve your Tally.\
+4. Once your wallet is connected, you will be prompted to <mark style="color:orange;">Enable</mark> your Tally.\
    \
    ![](<../.gitbook/assets/image (4) (1).png>)\
-   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform and team will work hard to bring the APR higher should it fall under.</mark>_  \
+   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It said  APR 60% on image 1, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform and team will work hard to bring the APR higher should it fall under.</mark>_  \
 
-5. Once you click on Approve, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it waiting for your approval.\
+5. Once you click on Enable, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it awaiting your approval.\
    \
-   Follow the instructions confirming transactions.  Your tokens will be transferred to the pool.\
-   You will see your Tally Tokens leave your wallet and enter the pool.\
    \
    ![](<../.gitbook/assets/Image 4 Approving Tally.jpg>)\
    \
@@ -112,9 +109,11 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 Click Confirm on the Exchange and then return to your wallet to also Confirm.\
 \
-Congratulations, you have staked your Tally Tokens.
+Follow the instructions confirming transactions on Metamask.  Your tokens will be transferred to the Tally pool.  You will see your Tally Tokens leave your wallet and enter the pool.\
+\
+_**Congratulations, you have staked your Tally Tokens**_.\
+\
 
-![](<../.gitbook/assets/Image 7 COnfirm Stake on Wallet.jpg>)
 
 #### You instantly start receiving rewards (interest) 
 
@@ -124,7 +123,7 @@ Congratulations, you have staked your Tally Tokens.
 
 You are able to withdraw your interest without unstaking your Tally Tokens. \
 \
-Simply click <mark style="color:green;">**Harvest**</mark> to reap your rewards while leaving your stake in place to generate more rewards.
+Simply click <mark style="color:green;">**Harvest**</mark> to reap your rewards while leaving your principal stake in place to generate more rewards.
 
 ### ♻️Compound your rewards (Get even more Tally)
 
@@ -138,7 +137,7 @@ This feature is where the magic happens.  Keep manually adding your rewards to y
 * Compound the Rewards = 1,001,600 Staked\
   _<mark style="color:blue;">The rewards will be added to your principal - 1,000,000</mark>_
 * Rewards Received = 1,646 Tally (in 24 hours)\
-  _<mark style="color:blue;">The rewards/interest based on the 1,001,600 stake</mark>_
+  _<mark style="color:blue;">The rewards/interest based on the new principal of 1,001,600 stake</mark>_
 
 This is done manually.  It is your choice how often you compound.  Keep in mind any gas fee that is charged by Binance for transaction.  Although it will be very low, it should not be higher or equal to the reward value.
 
