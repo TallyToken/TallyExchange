@@ -78,7 +78,7 @@ description: (2022)
 
 ### Audit ![](<.gitbook/assets/CalvinFlyingGIF (2).gif>)Passed&#x20;
 
-Below is a sharper display of images.
+#### <mark style="color:blue;">Find sharper diagram images below</mark>
 
 ![](<.gitbook/assets/image (16).png>)
 
