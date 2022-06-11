@@ -11,7 +11,7 @@ Once you have provided the liquidity on Tally Exchange you receive **LP tokens**
 ![](<.gitbook/assets/Farm page example.jpg>)
 
 Let's go step-by-step to guide you and so you can gain a better understanding of farming.\
-The **BNB-TALLY Farming Pair** will be used again in this guide.
+The **BNB-TALLY Farming Pair** will be used in this guide.
 
 ### &#x20;<a href="#provide-liquidity-stake-lp-tokens-and-earn-bsw" id="provide-liquidity-stake-lp-tokens-and-earn-bsw"></a>
 
