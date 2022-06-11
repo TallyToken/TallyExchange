@@ -64,7 +64,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (14).png>)
 
-![A bigger image is at the bottom of document](<.gitbook/assets/image (34).png>)
+![A bigger image is at the bottom of document](<.gitbook/assets/image (34) (1).png>)
 
 ![A bigger image provided below document](<.gitbook/assets/image (21).png>)
 

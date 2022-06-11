@@ -43,14 +43,15 @@ From here, you can use these LP Tokens and stake them in the Farm.  This would p
 ### You might be the first provider of your chosen tokens
 
 Tally Exchange is a relatively new platform and many pairs will not be available.  New tokens and different pairs are welcome.\
+![](<.gitbook/assets/image (34).png>)\
 \
-This platform should be the place to find rare tokens or pairs that are not necessarily available elsewhere.
+This platform should be the place to find rare tokens or pairs that are not necessarily available elsewhere.  If you do not see the token displayed for selection, paste the token address in the search bar.
 
-If you are the first to be the provider of a particular pair, you will see the following message:
+If you are the first provider of a particular pair, you will see the following message:
 
 ![](<.gitbook/assets/image (39).png>)
 
-At this point, you are shown the balance of each token in your wallet.
+At this point, you are shown the balance of each token in your wallet and you must decide the ratio.  It is an important step.
 
 #### What are you supposed to do as a first provider?
 
