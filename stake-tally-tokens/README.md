@@ -22,20 +22,23 @@ APY is the same as APR but with compound interest added on.  The reason the APY 
 * **User compounds once per week:** <mark style="color:green;">APY = 81.59%</mark>
 * **User compounds once per month:** <mark style="color:green;">APY = 79.59%</mark>
 * **User compounds quarterly:** <mark style="color:green;">APY = 74.9%</mark>
-* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)\
+* **User compounds once per year:** <mark style="color:green;">APY = 60%</mark> (this is what banks offer you for your savings)
 
+<mark style="color:red;">Be aware of gas fees when compounding and factor it when deciding the best time to make the transaction.</mark>
 
 ### Tally Pools
 
-The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest yields.  \
+The early bird catches the worm.  It's the same with staking pools, although all who enter will acquire a decent yield, its the earliest participants who catch the best rates and reap the highest reward.  \
 \
 **How it works:**  Early stakers manage to get in on the crazy % rates gaining maximum pay outs and later entrants bring the % rate down.\
 \
 Tally Exchange has one of the highest APR rates in the business due to the ecosystem supporting the token.&#x20;
 
-With the added focus on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol to deliver longevity.
+With the added performance incorporated focusing on constant marketing, product development, partnerships and a buy back mechanism, there is a performance fee attached to staking in order to support the protocol to deliver longevity.
 
-Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing high APR which is the main goal.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
+Keeping in line with competitors, Tally staking fees are capped at 2%.  Current rate at 0.4%.  All fees on Tally Exchange will never exceed 2%.  Fees may fluctuate in order to help regulate a healthy and appealing APR.  The aim is to keep it high attracting more and more users.  Whether the fees are as low as 0.4% or hits the higher rate, with high APR returns, rewards will quickly exceed fee values.  \
+\
+Fees also react to the markets.  It may rise in order to prevent flash attacks and bot looking to exploit the pool.  One of the prime factors that may raise a fee is to use the higher rate as a mechanism to protect real human stakers.  It is necessary at certain times to deter arbitrage opportunists from attempting to take advantage.\
 <mark style="color:blue;">See staking tables below.</mark>\
 \
 **Staking fee**
@@ -65,6 +68,8 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 ![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (10) (1).png>)
 
+#### <mark style="color:blue;">Even at the highest fee rate there are high returns</mark>
+
 ![These figures do not take compounding into consideration which will yield a higher return](<../.gitbook/assets/image (9) (1).png>)
 
 ### How to Stake Tally Tokens
@@ -86,7 +91,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
 4. Once your wallet is connected, you will be prompted to Approve your Tally.\
    \
    ![](<../.gitbook/assets/image (4) (1).png>)\
-   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform will work hard to bring the APR higher should it fall under.</mark>_  \
+   _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It says APR 60%, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform and team will work hard to bring the APR higher should it fall under.</mark>_  \
 
 5. Once you click on Approve, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it waiting for your approval.\
    \

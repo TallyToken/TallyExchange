@@ -46,7 +46,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (4).png>)
 
-![](<.gitbook/assets/image (22).png>)
+![](<.gitbook/assets/image (22) (1).png>)
 
 ![](<.gitbook/assets/image (12).png>)
 
@@ -56,7 +56,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (24).png>)
 
-![](<.gitbook/assets/image (35).png>)
+![](<.gitbook/assets/image (35) (1).png>)
 
 ![](<.gitbook/assets/image (11).png>)
 
