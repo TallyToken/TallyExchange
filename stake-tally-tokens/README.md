@@ -80,7 +80,8 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 **Step by step instructions:**
 
-1. Install a [Metamask wallet](https://metamask.io/download/).  Take this step and return to this page to move to step 2.&#x20;
+1. Install a [Metamask wallet](https://metamask.io/download/).  Take this step and return to this page to move to step 2.\
+   _<mark style="color:green;">If you already have Metamask with BNB wallet installed, go straight to step 3</mark>_&#x20;
 2. Add the BNB Network to your Metamask wallet.\
    _<mark style="color:orange;">This is a very important step in order to interact with Tally Exchange.</mark>_\
    &#x20; i - On your Metamask you will see at the top 'Ethereum Mainnet' click here.\
@@ -108,10 +109,10 @@ This is a good thing for TALLY holders because it supports the token and helps t
    \
 
 3. Buy Tally Tokens\
-   \
-   <mark style="color:orange;">Token Address:</mark> 0xab15B3eeC70514308B0Ad65E8B7603 98c5839947\
+   _<mark style="color:green;">If you already own Tally Tokens, go straight to step 5</mark>_ \
+   <mark style="color:orange;">Token Address:</mark> 0xab15B3eeC70514308B0Ad65E8B760398c5839947\
    <mark style="color:orange;">Direct link to purchase Tally Tokens:</mark> \
-   [https://pancakeswap.finance/swap?outputCur   \
+   [https://pancakeswap.finance/swap?outputCur\
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)\
    \
