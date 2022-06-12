@@ -89,7 +89,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
    ii - Click Add Network\
    ![](<../.gitbook/assets/image (37).png>)\
    \
-   iii - [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/)     [https://bscscan.com](https://bscscan.com)\
+   iii - Complete the following fields for BNB wallet integration.\
    \
    ![](<../.gitbook/assets/image (23).png>)\
    \
