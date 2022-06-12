@@ -78,26 +78,55 @@ This is a good thing for TALLY holders because it supports the token and helps t
 
 ### How to Stake Tally Tokens
 
-1. Buy Tally Tokens\
+**Step by step instructions:**
+
+1. Install a [Metamask wallet](https://metamask.io/download/).  Take this step and return to this page to move to step 2.&#x20;
+2. Add the BNB Network to your Metamask wallet.\
+   _<mark style="color:orange;">This is a very important step in order to interact with Tally Exchange.</mark>_\
+   &#x20; i - On your Metamask you will see at the top 'Ethereum Mainnet' click here.\
+   ![](<../.gitbook/assets/image (20).png>)\
+   \
+   ii - Click Add Network\
+   ![](<../.gitbook/assets/image (37).png>)\
+   \
+   iii - [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/)     [https://bscscan.com](https://bscscan.com)\
+   \
+   ![](<../.gitbook/assets/image (23).png>)\
+   \
+   Copy and paste the following:\
+   **Network Name** - BNB\
+   **New RPC URL** - [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/)\
+   **Chain ID** - 56\
+   **Currency Symbol** - BNB\
+   **Blockchain Explorer URL** -  [https://bscscan.com](https://bscscan.com)\
+   \
+   Then <mark style="color:orange;">**Save**</mark>\
+   \
+   Your Metamask can accept BNB tokens.\
+   ![](<../.gitbook/assets/image (26).png>)\
+
+3. Buy Tally Tokens\
    \
    <mark style="color:orange;">Token Address:</mark> 0xab15B3eeC70514308B0Ad65E8B7603 98c5839947\
    <mark style="color:orange;">Direct link to purchase Tally Tokens:</mark> \
    [https://pancakeswap.finance/swap?outputCur   \
    rency=0xab15B3eeC70514308B0Ad65E8B7603   \
-   98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)
-2. Once your tokens are in your BSC Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
+   98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)\
+   \
+   _<mark style="color:orange;">You will need BNB to purchase Tally Token on Pancakeswap</mark>_
+4. Once your tokens are in your BNB Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
    ![](<../.gitbook/assets/image (6) (1) (1).png>)\
 
-3. Unlock Wallet\
+5. Unlock Wallet\
    \
    ![](<../.gitbook/assets/Image 2 Connect Wallet.jpg>)\
 
-4. Once your wallet is connected, you will be prompted to <mark style="color:orange;">Enable</mark> your Tally.\
+6. Once your wallet is connected, you will be prompted to <mark style="color:orange;">Enable</mark> your Tally.\
    \
    ![](<../.gitbook/assets/image (4) (1).png>)\
    _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It said  APR 60% on image 1, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform and team will work hard to bring the APR higher should it fall under.</mark>_  \
 
-5. Once you click on Enable, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it awaiting your approval.\
+7. Once you click on Enable, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it awaiting your approval.\
    \
    \
    ![](<../.gitbook/assets/Image 4 Approving Tally.jpg>)\
@@ -106,7 +135,7 @@ This is a good thing for TALLY holders because it supports the token and helps t
    ![](<../.gitbook/assets/image (1) (1).png>)\
    \
 
-6. Enter the amount of Tally Tokens you would like to stake\
+8. Enter the amount of Tally Tokens you would like to stake\
    \
    ![](<../.gitbook/assets/image (3) (1).png>)\
    \

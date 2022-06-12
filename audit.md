@@ -10,7 +10,7 @@ description: (2022)
 
 ![](<.gitbook/assets/image (30).png>)
 
-![](<.gitbook/assets/image (20).png>)
+![](<.gitbook/assets/image (20) (1).png>)
 
 ![](<.gitbook/assets/image (6).png>)
 
@@ -66,15 +66,15 @@ description: (2022)
 
 ![A bigger image is at the bottom of document](<.gitbook/assets/image (34) (1).png>)
 
-![A bigger image provided below document](<.gitbook/assets/image (21).png>)
+![A bigger image provided below document](<.gitbook/assets/image (21) (1).png>)
 
 ![A bigger image provided at end of document](<.gitbook/assets/image (19).png>)
 
-![A bigger image provided at end of document](<.gitbook/assets/image (23).png>)
+![A bigger image provided at end of document](<.gitbook/assets/image (23) (1).png>)
 
 ![](<.gitbook/assets/image (17).png>)
 
-![](<.gitbook/assets/image (37).png>)
+![](<.gitbook/assets/image (37) (1).png>)
 
 ### &#x20;                                                             Audit Passed
 
@@ -88,4 +88,4 @@ description: (2022)
 
 ![](<.gitbook/assets/image (7).png>)
 
-![Tally Exchange ](<.gitbook/assets/image (26).png>)
+![Tally Exchange ](<.gitbook/assets/image (26) (1).png>)
