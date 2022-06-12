@@ -103,7 +103,9 @@ This is a good thing for TALLY holders because it supports the token and helps t
    Then <mark style="color:orange;">**Save**</mark>\
    \
    Your Metamask can accept BNB tokens.\
-   ![](<../.gitbook/assets/image (26).png>)\
+   \
+   ![](<../.gitbook/assets/image (6).png>)\
+   \
 
 3. Buy Tally Tokens\
    \
@@ -114,19 +116,33 @@ This is a good thing for TALLY holders because it supports the token and helps t
    98c5839947](https://pancakeswap.finance/swap?outputCurrency=0xab15B3eeC70514308B0Ad65E8B760398c5839947)\
    \
    _<mark style="color:orange;">You will need BNB to purchase Tally Token on Pancakeswap</mark>_
-4. Once your tokens are in your BNB Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
-   ![](<../.gitbook/assets/image (6) (1) (1).png>)\
+4. Bring your Tally Tokens into Metamask\
+   \
+   i - Click 'Import tokens' at the bottom of your wallet\
+   ![](<../.gitbook/assets/image (24).png>)\
+   \
+   ii - Paste Tally Token contract address\
+   \
+   ![](<../.gitbook/assets/image (12).png>)\
+   Tally Token Address: 0xab15B3eeC70514308B0Ad65E8B760398c5839947\
+   \
+   The Token Symbol and Token Decimal will automatically populate.  If not:\
+   **Token Symbol** - TALLY\
+   **Token Decimal** - 9\
 
-5. Unlock Wallet\
+5. Once your tokens are in your BNB Wallet, visit the [pools section](https://app.tally-ho.org/pools/stake\_tally) in menu\
+   ![](<../.gitbook/assets/image (6) (1) (1) (1).png>)\
+
+6. Unlock Wallet\
    \
    ![](<../.gitbook/assets/Image 2 Connect Wallet.jpg>)\
 
-6. Once your wallet is connected, you will be prompted to <mark style="color:orange;">Enable</mark> your Tally.\
+7. Once your wallet is connected, you will be prompted to <mark style="color:orange;">Enable</mark> your Tally.\
    \
    ![](<../.gitbook/assets/image (4) (1).png>)\
    _<mark style="color:orange;">Notice the APR changes once you are connected.  APR rates fluctuate according to the number of stakers participating.  The rate is automatically calculated by the platform.  It said  APR 60% on image 1, this is the target default rate Tally Exchange aims for.  The actual rate could be higher or lower as you enter your stake.  The bottom is set at APR 20%.  The platform and team will work hard to bring the APR higher should it fall under.</mark>_  \
 
-7. Once you click on Enable, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it awaiting your approval.\
+8. Once you click on Enable, your wallet will reopen.  If it doesn't reopen - revisit your wallet where you will find it awaiting your approval.\
    \
    \
    ![](<../.gitbook/assets/Image 4 Approving Tally.jpg>)\
@@ -135,11 +151,11 @@ This is a good thing for TALLY holders because it supports the token and helps t
    ![](<../.gitbook/assets/image (1) (1).png>)\
    \
 
-8. Enter the amount of Tally Tokens you would like to stake\
+9. Enter the amount of Tally Tokens you would like to stake\
    \
    ![](<../.gitbook/assets/image (3) (1).png>)\
    \
-   ![](<../.gitbook/assets/image (2) (1).png>)
+   ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 Click Confirm on the Exchange and then return to your wallet to also Confirm.\
 \

@@ -12,9 +12,9 @@ description: (2022)
 
 ![](<.gitbook/assets/image (20) (1).png>)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 ![](<.gitbook/assets/image (15).png>)
 
@@ -48,13 +48,13 @@ description: (2022)
 
 ![](<.gitbook/assets/image (22) (1).png>)
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 ![](<.gitbook/assets/image (25).png>)
 
 ![](<.gitbook/assets/image (29).png>)
 
-![](<.gitbook/assets/image (24).png>)
+![](<.gitbook/assets/image (24) (1).png>)
 
 ![](<.gitbook/assets/image (35) (1).png>)
 
