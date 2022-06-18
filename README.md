@@ -43,7 +43,7 @@ Tally makes more Tally.  Staking is another way to see your tokens grow and grow
 3. **Cash Out - Take it all**\
    _Of course keeping your tokens staked is what we the community would like all holders to do. The high rates is a good reason to do so.  However, it is no secret that the whole objective of staking is to make gains and enjoy the profits._ _You can withdraw your stake and rewards at any time.  Locking tokens is not a requirement on Tally Exchange.  Removing tokens can be done at any time._
 
-&#x20;           <mark style="color:orange;">****</mark>            [<mark style="color:orange;">**Tally Pools**</mark>](https://app.tally-ho.org/pools/stake\_tally) <mark style="color:orange;">**offer high APRs .**</mark>
+&#x20;           <mark style="color:orange;">****</mark>            [<mark style="color:orange;">**Tally Pools**</mark>](https://app.tally-ho.org/pools/stake\_tally) <mark style="color:orange;">**offer high APRs.**</mark>
 
 ### Owning Tally Tokens Provide Communal Income
 
